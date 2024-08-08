@@ -3,7 +3,7 @@ def get_last_data():
         "1st object added 2024-08-08 14:12",
         "2st object added 2024-08-08 14:44",
         "pushing directly from ui from pycharm",
-        "My Line 4 - Arth"a
+        "My Line 4 - Arth"
     ]
 
     return lst[-1]

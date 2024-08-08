@@ -1,5 +1,8 @@
 def get_last_data():
-    lst = ["1st object added 2024-08-08 14:12"]
+    lst = [
+        "1st object added 2024-08-08 14:12",
+        "2st object added 2024-08-08 14:44",
+    ]
 
     return lst[-1]
 

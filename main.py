@@ -5,6 +5,7 @@ def get_last_data():
         "pushing directly from ui from pycharm",
         "My Line 4 - Arth1",
         "My line 5 123"
+        "added new change from for_arth"
     ]
 
     return lst[-1]

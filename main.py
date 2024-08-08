@@ -4,7 +4,8 @@ def get_last_data():
         "2st object added 2024-08-08 14:44",
         "pushing directly from ui from pycharm",
         "My Line 4 - Arth1",
-        "My line 5 123"
+        "My line 5 123",
+        "Adding New line 6"
     ]
 
     return lst[-1]
